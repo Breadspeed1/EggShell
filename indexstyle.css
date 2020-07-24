@@ -1,7 +1,9 @@
 body{
-background-color: #36eb78; 
+background-color: white; 
 }
 .news{
   border-left: 6px solid #3da161;
-  background-color: lightgrey;
+  background-color: lightgreen;
+  font-family: Verdana;
+  
 }
