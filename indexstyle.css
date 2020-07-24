@@ -5,5 +5,7 @@ background-color: white;
   border-left: 6px solid #3da161;
   background-color: lightgreen;
   font-family: Verdana;
+  max-width:500px;
+  margin: auto;
   
 }
