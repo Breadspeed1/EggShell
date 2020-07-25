@@ -4,7 +4,7 @@
 }
 
 body{
-  background-color: white; 
+  background-color: #545454; 
 }
 
 .news{
@@ -15,8 +15,8 @@ body{
   width: 400px;
 }
 
- border: solid #3ec964 5px;
-  background-color: #3ec964;
+ border: solid #44e370 5px;
+  background-color: #44e370;
   text-align: center;
   justify-items: center;
 }
