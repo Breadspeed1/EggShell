@@ -8,18 +8,15 @@ body{
 }
 
 .news{
-  border-left: 6px solid #3da161;
-  background-color: lightgreen;
-  font-family: Tahoma;
-  width:400px;
-  margin-left:0px;
-  text-align: left;
+  justify-items: left;
+  margin-left: 0px;
+  border-left: solid green 10px;
+  background-color: #44e370;
+  width: 400px;
 }
 
-.titlebar{
-  border: 1px solid #008540;
-  background-color: #008540;
+ border: solid #3ec964 5px;
+  background-color: #3ec964;
   text-align: center;
-  margin: -5px, -5px, -5px;
-  color: lightgrey;
+  justify-items: center;
 }
