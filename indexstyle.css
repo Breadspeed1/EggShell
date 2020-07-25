@@ -15,4 +15,6 @@ body{
   border: 1px solid #008540;
   background-color: #008540;
   text-align: center;
+  margin: -5px, -5px, -5px;
+  color: lightgrey;
 }
