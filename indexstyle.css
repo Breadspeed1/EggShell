@@ -15,8 +15,8 @@ body{
   width: 400px;
 }
 
- border: solid #44e370 5px;
-  background-color: #44e370;
+ border: solid lightgreen 5px;
+  background-color: lightgreen;
   text-align: center;
   justify-items: center;
 }
