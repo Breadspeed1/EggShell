@@ -1,3 +1,8 @@
+*{
+  margin: 0;
+  background-color: #545454;
+}
+
 body{
   background-color: white; 
 }
