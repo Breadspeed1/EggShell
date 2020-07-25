@@ -1,12 +1,18 @@
 body{
-background-color: white; 
+  background-color: white; 
 }
+
 .news{
   border-left: 6px solid #3da161;
   background-color: lightgreen;
   font-family: Tahoma;
   width:400px;
   margin-left:0px;
-  text-allign: left;
-  
+  text-align: left;
+}
+
+.titlebar{
+  border: 1px solid #008540;
+  background-color: #008540;
+  text-align: center;
 }
