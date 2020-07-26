@@ -20,3 +20,14 @@ body{
   text-align: center;
   justify-items: center;
 }
+
+
+.frontWelcome{
+  color: black;
+  flex-direction: column;
+  display: flex;
+  justify-items: center;
+  text-align: center;
+  border: solid #3ec964 5px;
+  background-color: #3ec964;
+}
