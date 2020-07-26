@@ -33,4 +33,10 @@ body{
   background-color: #3ec964;
 }
 
-
+.software{
+    border-left: solid green 5px;
+  background-color: #3ec964;
+  text-align: left;
+  justify-items: left;
+  width: 400px;
+}
