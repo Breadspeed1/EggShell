@@ -8,11 +8,10 @@ body{
 }
 
 .news{
-  justify-items: left;
-  margin-left: 0px;
-  border-left: solid green 10px;
-  background-color: #44e370;
-  width: 400px;
+  border: solid #3ec964 5px;
+  background-color: #3ec964;
+  text-align: center;
+  justify-items: center;
 }
 
 .titlebar{
