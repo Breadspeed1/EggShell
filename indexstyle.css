@@ -15,8 +15,8 @@ body{
 }
 
 .titlebar{
- border: solid lightgreen 5px;
-  background-color: lightgreen;
+ border: solid #3ec964 5px;
+  background-color: #3ec964;
   text-align: center;
   justify-items: center;
 }
