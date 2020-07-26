@@ -8,10 +8,11 @@ body{
 }
 
 .news{
-  border: solid #3ec964 5px;
+  border-left: solid green 5px;
   background-color: #3ec964;
   text-align: center;
   justify-items: center;
+  length: 400px;
 }
 
 .titlebar{
