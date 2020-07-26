@@ -13,6 +13,7 @@ body{
   text-align: left;
   justify-items: left;
   width: 400px;
+  font-family: Verdana;
 }
 
 .titlebar{
@@ -20,6 +21,7 @@ body{
   background-color: #3ec964;
   text-align: center;
   justify-items: center;
+  font-family: Verdana;
 }
 
 
@@ -31,6 +33,7 @@ body{
   text-align: center;
   border: solid #3ec964 5px;
   background-color: #3ec964;
+  font-family: Verdana;
 }
 
 .software{
@@ -39,4 +42,5 @@ body{
   text-align: left;
   justify-items: left;
   width: 400px;
+  font-family: Verdana;
 }
